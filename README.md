@@ -188,4 +188,4 @@ docs/            Screenshots and images used in this README
 - WebGL (hosted on itch.io)
 
 ## Author
-*(Your name)* · [GitHub](https://github.com/your-username)
+Ketan Dinkar
